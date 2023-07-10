@@ -87,7 +87,7 @@ Storage
 
 
   ## Challenge
-  The challenge was to create a text editor app that would allow the user to save and retrieve data from an indexed database.
+  The challenge was to create a text editor app that would allow the user to save and retrieve data from an indexed database.THe challenge was to be able to get the proper routes to work with a newly learned datebase.  
 
   
 
