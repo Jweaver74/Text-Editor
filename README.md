@@ -47,8 +47,19 @@
   Build a text editor app with methods for getting and storing data.
 
   ## LiveLink
+https://salty-plains-48580-a39c10febe16.herokuapp.com/
 
-  https://salty-plains-48580-a39c10febe16.herokuapp.com/
+## Screenshots
+Homepage
+![Homepage](/assets/images/homescreen.png)
+Manifest
+![manifest](/assets/images/manifest.png)
+Service Worker
+![service-worker](/assets/images/service-worker.png)
+Storage
+![storage](/assets/images/storage.png)
+
+
 
   
 
